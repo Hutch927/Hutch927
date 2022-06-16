@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hutch927
 - 👀 I’m interested in coding, database management, and powershell. 
-- 🌱 I’m currently learning Cloud administration through Microsofts MSSA program. I am also learning python through various videos and books.  
+- 🌱 I’m currently learning Cloud administration through Microsofts MSSA program and also python through various videos and books.  
 - 📫 How to reach me ...
 
 <!---
